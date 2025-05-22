@@ -1,0 +1,13 @@
+% 
+
+nome = "Guilherme"
+idade = 28
+profissao = "Programador"
+linguagem = "Python"
+
+print( "Olá, me chamo %s. Eu tenho %d anos de idade, trabalho como %s e
+estou matriculado no curso de %s." % (nome, idade, profissao, linguagem))
+
+>>> Olá, me chamo Guilherme. Eu tenho 28 anos de idade, trabalho como
+Progamador e utilizo e estou matriculado no curso de Python.
+

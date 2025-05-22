@@ -1,0 +1,21 @@
+Convertendo tipos
+Em alguns momentos é necessário será necessário converter o
+tipo de uma variável para manipular de forma diferente. 
+Por exemplo:
+Variáveis do tipo string, que armazenam números e 
+precisamos fazer alguma operação matemática com esse valor.
+
+Float para inteiro
+preco = 10.3 
+print(preco)
+
+preco = int(preco)
+print(preco)
+
+string para numérico
+preco = "10.50"
+idade = "28"
+print (float(preco))
+10.50
+print (float(idade))
+28

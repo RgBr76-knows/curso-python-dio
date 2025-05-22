@@ -1,0 +1,3 @@
+ Fatiamento de strings é uma técnica utilizada para retornar I
+substrings (partes da string original), informando inicio (start),
+fim (stop) e passo (step): [start: stop[, step)).

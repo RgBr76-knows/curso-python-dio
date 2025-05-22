@@ -1,0 +1,15 @@
+Métodos Interativos 
+
+- Dir()
+Sem argumentos, retorna a lista de nomes no escopo local
+atual. Com um argumento, retorna uma lista de atributos
+válidos para o objeto. 
+Exit()
+
+- Help()
+Invoca o sistema de ajuda integrado. É possível fazer buscas em
+modo interativo ou informar por parâmetro qual o nome do
+módulo, função, classe, método ou variável. 
+
+Q para sair do Help
+Ctrl + R 

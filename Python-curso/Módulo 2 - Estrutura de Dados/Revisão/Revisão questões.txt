@@ -1,0 +1,33 @@
+Claro, aqui estão 10 questões que combinam tuplas, listas, dicionários e conjuntos com as estruturas de controle if, else e for:
+
+Dada a lista de tuplas produtos = [("maçã", 2), ("banana", 3), ("cereja", 5)], percorra a lista e imprima o nome do produto apenas se a quantidade for maior que 2.
+
+Crie um dicionário chamado estoque onde as chaves são os nomes das frutas e os valores são as quantidades. Verifique se todas as frutas no dicionário têm quantidades maiores que 5. Caso contrário, imprima o nome da fruta com quantidade insuficiente.
+
+Dado o conjunto pares = {2, 4, 6, 8, 10}, percorra o conjunto e imprima "Número Par" para cada elemento que estiver no conjunto e "Número Ímpar" para os números de 1 a 10 que não estiverem no conjunto.
+
+Dada a tupla valores = (10, 20, 30, 40, 50), transforme a tupla em uma lista, multiplique cada elemento por 2 e depois converta de volta para uma tupla.
+
+Dado o dicionário pontos = {"João": 15, "Maria": 20, "Pedro": 12}, crie um conjunto contendo apenas os nomes dos jogadores que têm mais de 14 pontos.
+
+Crie uma lista de conjuntos onde cada conjunto contém os múltiplos de um número de 1 a 5. Por exemplo, {1, 2, 3, 4, 5}, {2, 4, 6, 8, 10}, etc. Percorra a lista e imprima os conjuntos que contêm o número 6.
+
+Dada a lista de dicionários alunos = [{"nome": "Ana", "nota": 7}, {"nome": "Bruno", "nota": 5}, {"nome": "Carla", "nota": 9}], percorra a lista e imprima o nome dos alunos aprovados (nota maior ou igual a 6).
+
+Dada a tupla dimensoes = (3, 4, 5), escreva um código que calcule e imprima o volume de um paralelepípedo (volume = comprimento * largura * altura).
+
+Crie um dicionário onde as chaves são números de 1 a 5 e os valores são os quadrados desses números. Em seguida, transforme os valores em uma lista e imprima apenas os valores maiores que 10.
+
+Dado o conjunto vogais = {"a", "e", "i", "o", "u"} e a lista palavra = ["c", "a", "s", "a"], percorra a lista e verifique se cada letra está no conjunto de vogais, imprimindo "Vogal" ou "Consoante" conforme o caso.
+
+Com certeza! Aqui estão mais cinco questões que envolvem chaves e conjuntos (set) em Python, utilizando estruturas if, else e for:
+
+Dado o dicionário pessoas = {"Ana": 25, "Bruno": 30, "Carlos": 20}, crie um conjunto (set) contendo apenas as chaves do dicionário e imprima o conjunto.
+
+Crie um dicionário onde as chaves são os primeiros 5 números naturais e os valores são seus cubos. Em seguida, crie um conjunto contendo apenas os valores maiores que 8.
+
+Dada a lista valores = [1, 2, 3, 4, 5, 6], percorra a lista e adicione os valores ímpares a um conjunto (set). Imprima o conjunto resultante.
+
+Dado o dicionário cidades = {"São Paulo": "SP", "Rio de Janeiro": "RJ", "Belo Horizonte": "MG"}, verifique se a cidade "Curitiba" está presente como uma chave no dicionário. Caso não esteja, adicione-a com o valor "PR" e imprima o dicionário atualizado.
+
+Crie um dicionário onde as chaves são nomes de animais e os valores são suas respectivas classes (por exemplo, "Leão": "Mamífero"). Em seguida, crie um conjunto contendo todas as chaves e verifique se "Elefante" está presente no conjunto. Imprima "Presente" se estiver e "Não presente" se não estiver.

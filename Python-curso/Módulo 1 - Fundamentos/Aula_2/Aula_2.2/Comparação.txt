@@ -1,0 +1,6 @@
+Igualdade
+
+Diferença
+
+Maior que / Maior ou Igual
+Menor que / Menor ou Igual

@@ -1,0 +1,19 @@
+APPEND - adicionar em uma lista
+
+CLEAR - limpar a lista inteira
+
+COPY - copiar a lista igualzinha, com instância diferente
+
+COUNT - contar quantas vezes determinado objeto aparece na lista
+
+EXTEND - adicionar novos elementos, ao invés de usar 
+o append que é de um em um, bota tudo 
+
+INDEX- achar posições
+
+POP - tira o último elemento colocado na lista 
+
+REMOVE - tira apenas uma ocorrência de C
+se tem dois Cs repetidos, ele tira deixando só uma
+
+LEN - tira tamanho das listas

@@ -1,0 +1,10 @@
+In - operador de associação
+Para verificar se algo está em uma sequência
+
+string curso
+curso = "Curso de Python"
+
+A palavra Python está dentro da String curso??
+Neste caso usa-se o IN para saber se algo está em uma sequência
+"Python" in curso
+>>> true
